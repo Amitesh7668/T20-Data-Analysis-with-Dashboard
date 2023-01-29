@@ -1,6 +1,14 @@
 # T20-Data-Analysis-with-Dashboard
 
-#T20 world cup cricket data analytics – 
+# System Requirements
+
+* <b>Os :</b> Windows 10
+* <b>RAM :</b> 4GB
+* <b>Python version 3.0 or latest must be required</b>
+* ```Use Jupyter Notebook (recommended)```
+
+# About this file
+T20 world cup cricket data analytics – 
 Cricket Analysis [Python | Web scrapping | Pandas | Power BI]
 
 • Created a Power BI report to identify top 11 players for a T20 cricket team by scraping data from espncricinfo 
